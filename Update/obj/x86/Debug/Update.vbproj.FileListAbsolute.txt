@@ -1,0 +1,9 @@
+c:\users\pukulot\documents\visual studio 2010\Projects\Update\Update\obj\x86\Debug\Update.Update.resources
+c:\users\pukulot\documents\visual studio 2010\Projects\Update\Update\obj\x86\Debug\Update.Resources.resources
+c:\users\pukulot\documents\visual studio 2010\Projects\Update\Update\obj\x86\Debug\Update.vbproj.GenerateResource.Cache
+c:\users\pukulot\documents\visual studio 2010\Projects\Update\Update\bin\Debug\Update.exe
+c:\users\pukulot\documents\visual studio 2010\Projects\Update\Update\bin\Debug\Update.pdb
+c:\users\pukulot\documents\visual studio 2010\Projects\Update\Update\bin\Debug\Update.xml
+c:\users\pukulot\documents\visual studio 2010\Projects\Update\Update\obj\x86\Debug\Update.exe
+c:\users\pukulot\documents\visual studio 2010\Projects\Update\Update\obj\x86\Debug\Update.xml
+c:\users\pukulot\documents\visual studio 2010\Projects\Update\Update\obj\x86\Debug\Update.pdb
